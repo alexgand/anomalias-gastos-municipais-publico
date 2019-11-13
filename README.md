@@ -41,5 +41,7 @@ Em caso de dúvidas, falar com o autor, Alexandre Gandini.
 ## Trabalho desenvolvido sobre a seguinte licença:
 
 CREATIVE COMMONS Attribution-NonCommercial / CC BY-NC
+
 -> Citar a autoria do projeto;
+
 -> Proibido utilizar para fins comerciais.
